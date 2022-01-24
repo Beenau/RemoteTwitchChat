@@ -16,9 +16,9 @@ root.title('Twitch Chat')
 #API connection parameters
 server = 'irc.chat.twitch.tv'
 port = 6667
-nickname = 'Bad__Woof'
-token = 'oauth:gb6ihsb04beip9nb9swcsaqb5yku6l'
-channel = '#smallant'
+nickname = 'YOUR TWITCH NAME HERE'
+token = 'YOUR AUTH TOKEN HERE'
+channel = '#STREAM NANME HERE, KEEEP # AT START'
 
 def startConnect():
     tempMsg=''
